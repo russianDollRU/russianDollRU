@@ -1,0 +1,5 @@
+#+title: Лисные настройки системы debian
+#+author: Владимир Рязанцев
+#+email: russian.doll.36@yandex.ru
+#+language: ru
+#+options: ':t toc:nil num:nil author:t email:t
